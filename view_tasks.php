@@ -1,9 +1,9 @@
 <?php
 // Step 1: Connect to the database
-$host = "sql113.infinityfree.com";       // Replace with your actual host
-$username = "if0_38902911";       // Replace with your username
-$password = "Sumanth2000";   // Replace with your password
-$dbname = "if0_38902911_task_db";  // Replace with your database name
+$host = "sqlXXX.epizy.com";        // Replace with your host
+$username = "epiz_XXXXXXX";        // Replace with your username
+$password = "your_password";       // Replace with your password
+$dbname = "epiz_XXXXXXX_tasksdb";  // Replace with your database name
 
 $conn = new mysqli($host, $username, $password, $dbname);
 

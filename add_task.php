@@ -8,10 +8,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $priority = $_POST['priority'];
 
     // Step 3: Connect to database
-    $host = "sql113.infinityfree.com";       // Replace with your actual host
-    $username = "if0_38902911";       // Replace with your username
-    $password = "Sumanth2000";   // Replace with your password
-    $dbname = "if0_38902911_task_db"; // Replace with your db name
+    $host = "sqlXXX.epizy.com";        // Replace with your host
+    $username = "epiz_XXXXXXX";        // Replace with your username
+    $password = "your_password";       // Replace with your password
+    $dbname = "epiz_XXXXXXX_tasksdb";// Replace with your db name
 
     $conn = new mysqli($host, $username, $password, $dbname);
 
