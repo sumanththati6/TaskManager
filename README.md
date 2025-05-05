@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Task Manager (PHP + MySQL)
 
 A simple task management web application built using PHP, MySQL, HTML, CSS, and JavaScript.
